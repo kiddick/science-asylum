@@ -1,3 +1,7 @@
+### Why Are Some Things Transparent?
+
+https://www.youtube.com/watch?v=wDu0KMdDD1I
+
 1. Electrons do not have size. (point particle -- not size)
 2. They can only occupy certain energy levels. (different types of atoms have different energy levels and also depends on how atoms are bonded (?))
 3. If energy is definete, then position is not.
