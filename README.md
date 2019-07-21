@@ -17,3 +17,13 @@ https://www.youtube.com/watch?v=wDu0KMdDD1I
 13. In real life there are a lot of photons and electrons. Photons goes everythere inside the glass. Those photons interfere (?) and cancel (?) each other in most places. Where they don't cancel you get the light we actually see. Refractive index (atom organizetion).
 14. Atoms have different energy levels (see 2)
 15. When atoms bond to each other to form solids the energy levels moves closer together to form bands this leaves large energy gaps between. Gap between bands in glass is about 9 electron volts (?) which is to big for visible light. To excite electron photon has to have an energy at least 9 electron volts (?) (wavelength at most 138 nm == ultraviolet) --> visible light rejected --> Transparency
+
+### Bonds Do NOT Have Energy!
+
+https://www.youtube.com/watch?v=g39nwNm0Xfw
+
+1. Actual value of energy doesn't matter.
+2. Zero potential energy is at the ends of the universe.
+3. Things only happen when energy transforms so only ther difference is really matter.
+4. Cellular respiration. That gives you "free" energy: 60-70% goes to kinetic energy of molecules (body heat) 30-40% goes to into a bunch of ATP molecules (Adenosine Triphosphate)
+5. When you go from a higher energy to a lower energy the lost energy doesn't dissapear or start floating around on it is own. It goes into other atoms, molecules or particles
